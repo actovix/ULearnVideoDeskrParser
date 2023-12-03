@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "jHAwFZlxgmpCYwku+t4Ehpt+ZQ9sKqZXYDYMUMGw5/RbJgd74CYsYxxlLWXZzG3Gg4qxeBAK/MmdRS984Aujlg==",
+  "success": true,
+  "projectFilePath": "/home/matthew/source_cs/ulearner2/ulearner2.csproj",
+  "expectedPackageFiles": [
+    "/home/matthew/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.0/microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
+    "/home/matthew/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/home/matthew/.nuget/packages/microsoft.extensions.logging/2.0.2/microsoft.extensions.logging.2.0.2.nupkg.sha512",
+    "/home/matthew/.nuget/packages/microsoft.extensions.logging.abstractions/2.0.2/microsoft.extensions.logging.abstractions.2.0.2.nupkg.sha512",
+    "/home/matthew/.nuget/packages/microsoft.extensions.options/2.0.2/microsoft.extensions.options.2.0.2.nupkg.sha512",
+    "/home/matthew/.nuget/packages/microsoft.extensions.primitives/2.0.0/microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "/home/matthew/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/home/matthew/.nuget/packages/puppeteersharp/12.0.0/puppeteersharp.12.0.0.nupkg.sha512",
+    "/home/matthew/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/home/matthew/.nuget/packages/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg.sha512",
+    "/home/matthew/.nuget/packages/textcopy/6.2.1/textcopy.6.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
